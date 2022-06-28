@@ -1,0 +1,33 @@
+
+
+
+body {
+    font-family: 'Outfit', sans-serif;
+}
+
+h2{
+    text-align: center;
+}
+h3{
+    color: #5E753F;
+}
+.s2{
+    text-align: center; 
+    font-size: large;
+}
+#detail{
+    text-align: center;
+    color:#6D7563 ;
+}
+#d2{
+    text-align: center;
+    font-size: x-large;
+    margin-top: 4%;
+}
+circle{
+    fill: #C5F785;
+}
+.st0 {
+    fill: #5E753F;
+}
+
